@@ -1,0 +1,2 @@
+# angular-test
+Exploring AngularJS
